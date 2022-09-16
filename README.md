@@ -1,4 +1,4 @@
-# Unsupervised-Clustering-of-Microseismic-Signals-Using-Contrastive-Learning
+# Unsupervised-Clustering-of-Microseismic-Signals-Using-a-Contrastive-Learning-Model
 -------------------------------------------------------
 
 ### You can get the paper from here:
