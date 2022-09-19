@@ -13,6 +13,7 @@ The recommended requirements for TS2Vec are specified as follows:
 * matplotlib==3.5.2
 * Bottleneck==1.3.4
 * seaborn==0.11.2
+
 The dependencies can be installed by:
 ```bash
 pip install -r requirements.txt
