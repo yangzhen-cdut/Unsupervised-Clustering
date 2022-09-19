@@ -18,7 +18,13 @@ The dependencies can be installed by:
 ```bash
 pip install -r requirements.txt
 ```
+## Data
 
+Two types of datasets can be obtained from `datasets/` folder:
+
+* [Micrseismic spectrograms] can be found in `datasets/Micrseismic_Spectrograms/` folder.
+* [Micrseismic time series] can be found in `datasets/Micrseismic_Timeseries/` folder.
+* 
 ### You can get the paper from here:
 Link:
 
