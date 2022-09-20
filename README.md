@@ -61,14 +61,16 @@ There are two examples are given in `evaluation.py`: `eval_with_real_data` and `
 
 ### Clustering performance comparison. 
 
-![clustering results](./results/comparison_results.png)
+<center>
+    <img src=./results/comparison_results.png width="520"/>
+</center>
 
 ### Visualization of learned latent representations. 
 
 Latent representations of synthetic waveforms
 
 <center>
-    <img src=./results/syn_reprs.png width="500"/>
+    <img src=./results/syn_reprs.png width="520"/>
 </center>
 
 Latent representations of real microseismic waveforms
