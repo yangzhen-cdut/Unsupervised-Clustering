@@ -57,12 +57,14 @@ There are two examples are given in `evaluation.py`: `eval_with_real_data` and `
 
 ### The architecture of TSCC used in our study. 
 
-![network architecture](./results/Framework.jpg)
+<center>
+    <img src=./results/Framework.jpg width="1000"/>
+</center>
 
 ### Clustering performance comparison. 
 
 <center>
-    <img src=./results/comparison_results.png width="800"/>
+    <img src=./results/comparison_results.png width="1000"/>
 </center>
 
 ### Visualization of learned latent representations. 
@@ -70,12 +72,14 @@ There are two examples are given in `evaluation.py`: `eval_with_real_data` and `
 Latent representations of synthetic waveforms
 
 <center>
-    <img src=./results/syn_reprs.png width="520"/>
+    <img src=./results/syn_reprs.png width="500"/>
 </center>
 
 Latent representations of real microseismic waveforms
 
-![latent representations of real](./results/reprs.png)
+<center>
+    <img src=./results/reprs.png width="1000"/>
+</center>
 
 ### Representative cluster distribution
 
