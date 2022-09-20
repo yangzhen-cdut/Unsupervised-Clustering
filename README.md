@@ -77,7 +77,7 @@ Latent representations of real microseismic waveforms
 
 ### Representative cluster distribution
 Tpyical microseismic waveforms                       Tpyical noise waveforms   
-![microseismic](./results/ClusterAsMicroseismic.png)   ![noise](./results/ClusterAsNoise.png)
+![microseismic](./results/ClusterAsMicroseismic.jpg)   ![noise](./results/ClusterAsNoise.jpg)
 <table>
 	<tr>
       <td rowspan="2">Methods</td>
