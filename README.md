@@ -3,7 +3,7 @@
 
 ## Requirements
 
-The recommended requirements for TS2Vec are specified as follows:
+The recommended requirements for TSCC are specified as follows:
 * Python 3.7
 * torch==1.8.1
 * scipy==1.7.3
