@@ -39,7 +39,7 @@ Two types of datasets can be obtained from `datasets/` folder:
 To train TSCC on a microseismic dataset, run the following command:
 
 ```run
-python run.py <dataset_name> <dataset_name> --pretraining_epoch <pretraining_epoch> --batch-size <batch_size> --MaxIter1 <MaxIter1> --repr-dims <repr_dims>
+python run.py <dataset_name> <dataset_name> --pretraining_epoch <pretraining_epoch> --batch-size <batch_size> --MaxIter <MaxIter> --repr-dims <repr_dims>
 ```
 
 After training, the trained encoder of pre-training phase, the trained encoder of fine-tuning phase and clustering centers can be found in `./<dataset_name>_Pretraining_phase`, `./<dataset_name>_Finetuning_phase`, `./<dataset_name>_Centers`. 
@@ -47,7 +47,7 @@ After training, the trained encoder of pre-training phase, the trained encoder o
 To evaluate TSCC on a microseismic dataset, run the following command:
 
 ```evaluate
-python evaluation.py <dataset_name> <dataset_name> --pretraining_epoch <pretraining_epoch> --batch-size <batch_size> --MaxIter1 <MaxIter1> --repr-dims <repr_dims>
+python evaluation.py <dataset_name> <dataset_name> --pretraining_epoch <pretraining_epoch> --batch-size <batch_size> --MaxIter <MaxIter> --repr-dims <repr_dims>
 ```
 
 There are two examples are given in `evaluation.py`: `eval_with_real_data` and `eval_with_synthetic_data`. You can call those two functions directly, and the output of representations can be found in `./Eval_Representations.npy` and `./Eval_Syn_Representations.npy`, respectively. 
