@@ -81,7 +81,7 @@ Tpyical microseismic waveforms                       Tpyical noise waveforms
     <img src=./results/ClusterAsMicroseismic.jpg width="400"/>
 </center>
 <figure class="half">
-    <img src=./results/ClusterAsMicroseismic.jpg width="400"/><img src=./results/ClusterAsNoise.jpg width="400"/>
+    <img src=./results/ClusterAsMicroseismic.jpg width="300"/><img src=./results/ClusterAsNoise.jpg width="300"/>
 </figure>
 
 
