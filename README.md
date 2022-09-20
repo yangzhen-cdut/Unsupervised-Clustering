@@ -18,7 +18,7 @@ The recommended requirements for TSCC are specified as follows:
 * pandas==1.3.5
 * scikit_learn==0.24.2
 * matplotlib==3.5.2
-* Bottleneck==1.3.4
+* bottleneck==1.3.4
 * seaborn==0.11.2
 
 The dependencies can be installed by:
