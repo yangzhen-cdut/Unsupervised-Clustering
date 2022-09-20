@@ -62,7 +62,7 @@ There are two examples are given in `evaluation.py`: `eval_with_real_data` and `
 ### Clustering performance comparison. 
 
 <center>
-    <img src=./results/comparison_results.png width="520"/>
+    <img src=./results/comparison_results.png width="800"/>
 </center>
 
 ### Visualization of learned latent representations. 
