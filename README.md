@@ -1,5 +1,5 @@
-# Time Series Contrastive Clustering (TSCC): an end-to-end unsupervised clustering of microseismic signals
--------------------------------------------------------
+# Time Series Contrastive Clustering (TSCC)
+
 ## Getting Started
 
 Clone the project into your local system  
