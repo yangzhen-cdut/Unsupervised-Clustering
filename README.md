@@ -33,12 +33,6 @@ pip install -r requirements.txt
 ```
 
 Note that you should have CUDA installed for running the code.
-## Data
-
-Two types of datasets can be obtained from `datasets/` folder:
-
-* [Micrseismic spectrograms] can be found in `datasets/Micrseismic_Spectrograms/` folder.
-* [Micrseismic time series] can be found in `datasets/Micrseismic_Timeseries/` folder.
 
 ## Usage
 
@@ -64,13 +58,13 @@ There are two examples are given in `evaluation.py`: `eval_with_real_data` and `
 ### The architecture of TSCC used in our study. 
 
 <center>
-    <img src=./results/Framework.jpg width="900"/>
+    <img src=./results/Framework.jpg width="600"/>
 </center>
 
 ### Clustering performance comparison. 
 
 <center>
-    <img src=./results/comparison_results.png width="900"/>
+    <img src=./results/comparison_results.jpg width="600"/>
 </center>
 
 ### Visualization of learned latent representations. 
@@ -84,7 +78,7 @@ Latent representations of synthetic waveforms
 Latent representations of real microseismic waveforms
 
 <center>
-    <img src=./results/reprs.png width="900"/>
+    <img src=./results/reprs.png width="450"/>
 </center>
 
 ### Representative cluster distribution
