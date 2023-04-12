@@ -1,5 +1,11 @@
 # Time Series Contrastive Clustering (TSCC)
 
+## You can get the paper from here:
+
+Link 1:
+
+https://ieeexplore.ieee.org/abstract/document/10032176
+
 ## Getting Started
 
 Clone the project into your local system  
