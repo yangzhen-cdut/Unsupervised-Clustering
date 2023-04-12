@@ -1,10 +1,9 @@
 # Time Series Contrastive Clustering (TSCC)
 
-## You can get the paper from here:
+## Cite This Paper:
+Z. Yang, H. Li, X. Tuo, L. Li and J. Wen, "Unsupervised Clustering of Microseismic Signals Using a Contrastive Learning Model," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-12, 2023, Art no. 5903212, doi: 10.1109/TGRS.2023.3240728.
 
-Link: 
-
-https://ieeexplore.ieee.org/document/10032176
+Link: https://doi.org/10.1109/TGRS.2023.3240728
 
 ## Getting Started
 
