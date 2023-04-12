@@ -13,7 +13,7 @@ class TSCCEncoder(nn.Module):
         self.mask_mode = mask_mode
         self.linear_projector = nn.Linear(input_dims, hidden_dims)
         self.feature_extractor = DilatedConvModule(hidden_dims, [hidden_dims] * depth + [output_dims], kernel_size=3)
-        self.repr_dropout = nn.Dropout(p=0.1)
+        self.repr_dropout = nn.Dropout(p=0.2)
 
     def forward(self, x):
         nan_mask = ~x.isnan().any(axis=-1)
