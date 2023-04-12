@@ -26,7 +26,7 @@ class TSCCModel:
             dataset_name,
             input_dims,
             MaxIter=100,
-            m=1.5,
+            m=1.0,
             T1=2,
             output_dims=32,
             hidden_dims=64,
